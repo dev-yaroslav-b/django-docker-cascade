@@ -21,5 +21,5 @@ Build compose:
 
     docker-compose up --build
 
-## TODO:
+### TODO:
 1. Add prod setup
